@@ -1,0 +1,36 @@
+.mainImg{
+    background-image: url("stream420x240.jpg");
+    height: 1px solid;
+    width: 400px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+.container{
+display: flex;
+
+}
+.image2{
+    background-image: url("relax420x237.jpg");
+    height: 1px solid;
+    width: 400px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.image3{
+    background-image: url("desert780x477.jpg");
+    height: 1px solid;
+    width: 400px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-end;
+}
+
+
+
+
+
+
+
