@@ -1,36 +1,74 @@
-.mainImg{
-    background-image: url("stream420x240.jpg");
-    height: 1px solid;
-    width: 400px;
-    display: flex;
-    justify-content: flex-start;
-    align-items: center;
-}
-.container{
-display: flex;
+.nav{
 
 }
+.mainImg{
+    background-image: url("desert780x477.jpg");
+    height: 477px;
+    width: 780px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
+
+
+.container{
+display: flex;
+font-family: arial;
+color: white;
+font-size: 17px;
+}
+
+#border{
+
+    border-bottom-color:orange;
+    border-style:3px solid; 
+}
+
+.box{
+
+   display: flex;
+   flex-direction: column
+
+}
+
 .image2{
-    background-image: url("relax420x237.jpg");
-    height: 1px solid;
-    width: 400px;
+    background-image: url("stream420x240.jpg");
+    height: 240px;
+    width: 420px;
     display: flex;
     justify-content: flex-start;
     align-items: center;
 }
 
 .image3{
-    background-image: url("desert780x477.jpg");
-    height: 1px solid;
-    width: 400px;
+    background-image: url("relax420x237.jpg");
+    height: 237px;
+    width: 420px;
     display: flex;
     justify-content: flex-start;
     align-items: flex-end;
+}
+
+.image2, .image3{
+ display: flex;
+ justify-content: flex-start;
+ align-items: flex-end
+}
+
+.image2, .image3{
+display: flex;
+font-family: arial;
+color: white;
+font-size: 15px;
 }
 
 
 
 
 
+.p{
+    font-family: 'Muli', sans-serif;
+
+}
 
 
