@@ -1,5 +1,5 @@
 .nav{
-
+    
 }
 .mainImg{
     background-image: url("desert780x477.jpg");
@@ -8,27 +8,26 @@
     display: flex;
     justify-content: center;
     align-items: flex-end;
+    
 }
-
+.orange-border {
+    border-bottom: 2px solid orangered;
+    margin-bottom: 50px;
+}
 
 .container{
-display: flex;
-font-family: arial;
-color: white;
-font-size: 17px;
-}
+    display: flex;
+    font-family: arial;
+    color: white;
+    font-size: 18px;
 
-#border{
-
-    border-bottom-color:orange;
-    border-style:3px solid; 
+/* border-bottom-color:orange; */
+/* border-style:3px solid;  */
 }
 
 .box{
-
-   display: flex;
-   flex-direction: column
-
+    display: flex;
+    flex-direction: column
 }
 
 .image2{
@@ -50,25 +49,22 @@ font-size: 17px;
 }
 
 .image2, .image3{
- display: flex;
- justify-content: flex-start;
- align-items: flex-end
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-end;
+    
 }
 
 .image2, .image3{
-display: flex;
-font-family: arial;
-color: white;
-font-size: 15px;
+    display: flex;
+    font-family: arial;
+    color: white;
+    font-size: 13px;
+    margin-left: 5px
 }
 
-
-
-
-
-.p{
-    font-family: 'Muli', sans-serif;
-
-}
+/*.p{
+font-family: 'Muli', sans-serif;
+}*/
 
 
