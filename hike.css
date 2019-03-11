@@ -1,5 +1,8 @@
-.nav{
-    
+#navbar{
+    list-style: none;
+    display: flex;
+
+
 }
 .mainImg{
     background-image: url("desert780x477.jpg");
