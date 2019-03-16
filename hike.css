@@ -1,9 +1,23 @@
 #navbar{
     list-style: none;
     display: flex;
-
-
+    margin: 5px;
+    padding: 5px;
 }
+
+#navbar li {
+    float: left;
+}
+
+#navbar li a{
+    display: block;
+    width: 100px;
+    background: black
+    
+     
+}
+
+
 .mainImg{
     background-image: url("desert780x477.jpg");
     height: 477px;
